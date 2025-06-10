@@ -66,8 +66,3 @@ Voici la topologie réseau :
 - ✅ Résolution DNS : `dig google.com`
 - ✅ Routage correct : `ip route`
 - ✅ Connexion VPN fonctionnelle (test client)
-
----
-
-Tu peux copier-coller ce contenu dans ton `README.md`, et ajouter ton image dans :
-
